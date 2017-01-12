@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\workspace\suwon\suwon\suwon\directx\0. 2d_framework 제작\2dframework\2dframework\main.cpp(570): warning C4838: conversion from 'DWORD' to 'LONG' requires a narrowing conversion
+  2DFrameWork.vcxproj -> C:\WorkSpace\Suwon\Suwon\Suwon\DirectX\0. 2D_FrameWork 제작\2DFrameWork\Debug\2DFrameWork.exe
+  2DFrameWork.vcxproj -> C:\WorkSpace\Suwon\Suwon\Suwon\DirectX\0. 2D_FrameWork 제작\2DFrameWork\Debug\2DFrameWork.pdb (Full PDB)

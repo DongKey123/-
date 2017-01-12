@@ -1,0 +1,11 @@
+DX 의 Device 를 생성합니다.
+D3D 의 기반 클래스를 구현합니다.(최대한)
+스왑체인렌더타겟 등을 Device 클래스 내부로 이동합니다.
+
+DX API 와 (최대한) 동일 인터페이스를 유지합니다.
+
+CreateDevice
+BeginScene
+EndScene
+Present
+Clear
